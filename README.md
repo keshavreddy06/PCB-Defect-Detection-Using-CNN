@@ -233,4 +233,3 @@ This project demonstrates the effectiveness of deep learning for automated PCB d
 
 Machine Learning Project
 
-University Coursework
