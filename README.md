@@ -103,6 +103,7 @@ Prediction confidence analysis was performed on unseen PCB defect images to eval
 ### Example Prediction
 
 ![Prediction Result](figures/figure_8_2_prediction_result.png)
+![Prediction Result](figures/figure_8_2.1_prediction_result.png)
 
 The MobileNetV2 model correctly classified PCB defects with high confidence, providing additional evidence of robust feature learning.
 
